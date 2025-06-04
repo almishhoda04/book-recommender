@@ -36,6 +36,18 @@ def recommend(book_name):
 
     return recommended_books, book_authors, book_covers
 # Streamlit UI
+st.markdown(
+    """
+    <style>
+    .stApp {
+        background-color: #0d1117;
+        color: #c9d1d9;
+        font-family: 'Courier New', monospace;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 
 st.title("📖 Book Recommender System")
 
