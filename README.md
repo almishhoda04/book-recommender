@@ -1,6 +1,9 @@
 # 📚 Book Recommender System  
 
-A **book recommendation system** built using **Numpy, Pandas, Scikit-learn and Machine Learning**, supporting **Popularity-based and Collaborative filtering based** approaches.  
+A **book recommendation system** built using **Numpy, Pandas, Scikit-learn and Machine Learning**, supporting **Popularity-based and Collaborative filtering based** approaches.
+
+## View the project live on streamlit here:
+https://book-recommender-almishhoda04.streamlit.app/
 
 ## 🚀 Features  
 ✅ Recommend books based on user input  
